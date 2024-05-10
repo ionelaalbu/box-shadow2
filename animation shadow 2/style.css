@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(95, 47, 255);
+}
+svg{
+    filter: drop-shadow(10px 7px 10px rgb(72, 255, 0));
+    
+}
+/* copied as svg from figma and insert to html
